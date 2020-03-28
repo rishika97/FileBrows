@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581480489148",
+    "firebase_url": "https://filebrows.firebaseio.com",
+    "project_id": "filebrows",
+    "storage_bucket": "filebrows.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581480489148:android:5dda3f727f6290616170b9",
+        "android_client_info": {
+          "package_name": "com.n.filebrows"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581480489148-4qia6hi0eqtpqm0p206tqsko1ktc2ar5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzDna4fwJl8oXth7SYce69kS-Zp-G19gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581480489148-4qia6hi0eqtpqm0p206tqsko1ktc2ar5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
